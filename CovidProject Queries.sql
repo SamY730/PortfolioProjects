@@ -88,7 +88,7 @@ from PopvsVac
 
 
 
---Using Temp Table with MSS language
+--Using Temp Table
 
 Create Table as #PercentagePopulationVaccinated
 (
